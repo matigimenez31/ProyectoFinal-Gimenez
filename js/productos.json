@@ -1,0 +1,50 @@
+[
+    {
+        "id": "Procesador",
+        "titulo": "Procesador",
+        "imagen": "./assets/img/Procesador.jpg",
+        "precio": 40000
+    },
+    {
+        "id": "Ram",
+        "titulo": "Ram",
+        "imagen": "./assets/img/Ram.jpg",
+        "precio": 36500
+    },
+    {
+        "id": "Motherboard",
+        "titulo": "Motherboard",
+        "imagen": "./assets/img/Motherboard.jpg",
+        "precio": 25000
+    },
+    {
+        "id": "PlacadeVideo",
+        "titulo": "Placa de Video",
+        "imagen": "./assets/img/PlacadeVideo.jpg",
+        "precio": 120000
+    },
+    {
+        "id": "Fuente",
+        "titulo": "Fuente",
+        "imagen": "./assets/img/Fuente.jpg",
+        "precio": 16400
+    },
+    {
+        "id": "DiscoDuro",
+        "titulo": "Disco Duro",
+        "imagen": "./assets/img/DiscoDuro.jpg",
+        "precio": 7900
+    },
+    {
+        "id": "DiscoSolido",
+        "titulo": "Disco Sólido",
+        "imagen": "./assets/img/DiscoSolido.jpg",
+        "precio": 9300
+    },
+    {
+        "id": "Gabinete",
+        "titulo": "Gabinete",
+        "imagen": "./assets/img/Gabinete.jpg",
+        "precio": 23500
+    }
+]
